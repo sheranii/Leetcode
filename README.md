@@ -9,8 +9,17 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
