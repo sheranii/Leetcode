@@ -14,6 +14,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
@@ -26,5 +27,6 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
