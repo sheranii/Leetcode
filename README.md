@@ -72,9 +72,14 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
