@@ -37,6 +37,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -47,6 +48,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
@@ -61,6 +63,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -98,4 +101,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
