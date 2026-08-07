@@ -74,6 +74,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,4 +83,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
