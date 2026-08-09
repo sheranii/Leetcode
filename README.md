@@ -60,6 +60,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sheranii/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -71,6 +72,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sheranii/Leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
