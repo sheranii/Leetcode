@@ -19,6 +19,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 | [1652-defuse-the-bomb](https://github.com/sheranii/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -36,6 +37,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,11 +89,13 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sheranii/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -118,4 +122,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sheranii/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
