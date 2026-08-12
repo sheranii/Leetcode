@@ -126,4 +126,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/sheranii/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
