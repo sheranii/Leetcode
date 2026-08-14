@@ -112,6 +112,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sheranii/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Heap (Priority Queue)
 |  |
