@@ -10,6 +10,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/sheranii/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sheranii/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -151,6 +152,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
@@ -160,5 +162,6 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
