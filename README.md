@@ -65,6 +65,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
@@ -185,4 +186,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
