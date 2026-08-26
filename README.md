@@ -19,6 +19,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/sheranii/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sheranii/Leetcode/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/sheranii/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sheranii/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -99,6 +100,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sheranii/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sheranii/Leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
