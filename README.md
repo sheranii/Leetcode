@@ -71,6 +71,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
@@ -100,6 +101,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/sheranii/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sheranii/Leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -140,6 +142,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sheranii/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Heap (Priority Queue)
@@ -183,6 +186,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sheranii/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 ## Greedy
 |  |
