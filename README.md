@@ -77,6 +77,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
 ## Matrix
 |  |
 | ------- |
@@ -222,4 +223,16 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
