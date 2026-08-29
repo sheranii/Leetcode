@@ -38,6 +38,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/sheranii/Leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
+| [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -235,4 +237,12 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
+## Enumeration
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
