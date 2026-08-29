@@ -37,6 +37,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2653-sliding-subarray-beauty](https://github.com/sheranii/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Binary Search
@@ -79,6 +80,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
+| [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Matrix
 |  |
@@ -88,6 +90,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0074-search-a-2d-matrix](https://github.com/sheranii/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,5 +247,6 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Number Theory
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
