@@ -36,6 +36,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 | [1652-defuse-the-bomb](https://github.com/sheranii/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sheranii/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -123,6 +124,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sheranii/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -207,6 +209,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0435-non-overlapping-intervals](https://github.com/sheranii/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sheranii/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
