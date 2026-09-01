@@ -155,6 +155,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sheranii/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
+| [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sheranii/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -262,4 +263,16 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
