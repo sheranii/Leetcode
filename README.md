@@ -40,6 +40,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/sheranii/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2653-sliding-subarray-beauty](https://github.com/sheranii/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Binary Search
@@ -93,6 +94,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/sheranii/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
