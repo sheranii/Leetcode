@@ -29,6 +29,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/sheranii/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
@@ -57,6 +58,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
@@ -93,6 +95,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0074-search-a-2d-matrix](https://github.com/sheranii/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/sheranii/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
@@ -123,6 +126,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/sheranii/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
@@ -167,6 +171,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
