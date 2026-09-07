@@ -35,6 +35,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/sheranii/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sheranii/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -251,6 +252,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Primality Test
 |  |
 | ------- |
