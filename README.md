@@ -171,6 +171,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sheranii/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -282,12 +283,23 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
