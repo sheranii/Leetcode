@@ -148,6 +148,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0232-implement-queue-using-stacks](https://github.com/sheranii/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sheranii/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sheranii/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -157,11 +158,13 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sheranii/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sheranii/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/sheranii/Leetcode/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -305,4 +308,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sheranii/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
