@@ -176,6 +176,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sheranii/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/sheranii/Leetcode/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheranii/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sheranii/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -293,16 +294,19 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/sheranii/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/sheranii/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/sheranii/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/sheranii/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
@@ -316,4 +320,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sheranii/Leetcode/tree/master/0901-online-stock-span) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/sheranii/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
