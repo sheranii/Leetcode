@@ -35,6 +35,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/sheranii/Leetcode/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/sheranii/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -235,6 +236,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0179-largest-number](https://github.com/sheranii/Leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/sheranii/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/sheranii/Leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sheranii/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sheranii/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
