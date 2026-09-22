@@ -44,6 +44,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sheranii/Leetcode/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
+| [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/sheranii/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -349,4 +350,12 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0040-combination-sum-ii](https://github.com/sheranii/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sheranii/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sheranii/Leetcode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
