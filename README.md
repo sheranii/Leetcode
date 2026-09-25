@@ -102,6 +102,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/sheranii/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sheranii/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sheranii/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -278,6 +279,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/sheranii/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sheranii/Leetcode/tree/master/0342-power-of-four) |
 ## Euclidean Algorithm
 |  |
