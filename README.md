@@ -45,6 +45,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/sheranii/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/sheranii/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sheranii/Leetcode/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
@@ -76,6 +77,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/sheranii/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
