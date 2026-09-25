@@ -195,6 +195,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sheranii/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/sheranii/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/sheranii/Leetcode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
@@ -239,6 +240,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sheranii/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sheranii/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -357,6 +359,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sheranii/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sheranii/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sheranii/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sheranii/Leetcode/tree/master/0046-permutations) |
@@ -373,4 +376,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sheranii/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
