@@ -99,6 +99,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
@@ -140,6 +141,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sheranii/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sheranii/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sheranii/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sheranii/Leetcode/tree/master/0190-reverse-bits) |
@@ -365,6 +367,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0046-permutations](https://github.com/sheranii/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sheranii/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sheranii/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sheranii/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sheranii/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
