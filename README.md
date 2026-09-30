@@ -45,6 +45,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/sheranii/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/sheranii/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sheranii/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -86,6 +87,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/sheranii/Leetcode/tree/master/0645-set-mismatch) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/sheranii/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Sliding Window
@@ -149,6 +151,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sheranii/Leetcode/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/sheranii/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sheranii/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/sheranii/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sheranii/Leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/sheranii/Leetcode/tree/master/0645-set-mismatch) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sheranii/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
