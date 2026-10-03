@@ -12,6 +12,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sheranii/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sheranii/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sheranii/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sheranii/Leetcode/tree/master/0047-permutations-ii) |
@@ -133,6 +134,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -171,6 +173,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sheranii/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -186,6 +189,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sheranii/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/sheranii/Leetcode/tree/master/0456-132-pattern) |
@@ -248,6 +252,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sheranii/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sheranii/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
