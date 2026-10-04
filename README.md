@@ -32,6 +32,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sheranii/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sheranii/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sheranii/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sheranii/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -85,6 +86,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -130,6 +132,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sheranii/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -160,6 +163,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sheranii/Leetcode/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sheranii/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
@@ -289,10 +293,12 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
