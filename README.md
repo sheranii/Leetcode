@@ -215,6 +215,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0008-string-to-integer-atoi](https://github.com/sheranii/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/sheranii/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/sheranii/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sheranii/Leetcode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
 | [0459-repeated-substring-pattern](https://github.com/sheranii/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -267,6 +268,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0055-jump-game](https://github.com/sheranii/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sheranii/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/sheranii/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/sheranii/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Simulation
@@ -393,6 +395,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0078-subsets](https://github.com/sheranii/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sheranii/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sheranii/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sheranii/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Depth-First Search
