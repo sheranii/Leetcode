@@ -107,6 +107,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sheranii/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
@@ -267,6 +268,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sheranii/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sheranii/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sheranii/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sheranii/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -420,4 +422,8 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sheranii/Leetcode/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sheranii/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
