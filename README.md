@@ -110,6 +110,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0062-unique-paths](https://github.com/sheranii/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sheranii/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
@@ -270,6 +271,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sheranii/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sheranii/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sheranii/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sheranii/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -432,5 +434,6 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sheranii/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
