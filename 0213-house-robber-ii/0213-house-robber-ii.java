@@ -4,25 +4,29 @@ class Solution {
 
         if (n == 1) return nums[0];
 
-        int[] dp1 = new int[n];
-        Arrays.fill(dp1, -1);
-        int case1 = solve(n - 2, 0, nums, dp1);
-
-        int[] dp2 = new int[n];
-        Arrays.fill(dp2, -1);
-        int case2 = solve(n - 1, 1, nums, dp2);
+        int case1 = robRange(nums, 0, n - 2);
+        int case2 = robRange(nums, 1, n - 1);
 
         return Math.max(case1, case2);
     }
 
-    private int solve(int i, int start, int[] nums, int[] dp) {
-        if (i < start) return 0;
+    private int robRange(int[] nums, int start, int end) {
+        int len = end - start + 1;
+        int[] dp = new int[len];
 
-        if (dp[i] != -1) return dp[i];
+        dp[0] = nums[start];
 
-        int skip = solve(i - 1, start, nums, dp);
-        int take = nums[i] + solve(i - 2, start, nums, dp);
+        if (len == 1) return dp[0];
 
-        return dp[i] = Math.max(take, skip);
+        dp[1] = Math.max(nums[start], nums[start + 1]);
+
+        for (int i = 2; i < len; i++) {
+            dp[i] = Math.max(
+                dp[i - 1],
+                nums[start + i] + dp[i - 2]
+            );
+        }
+
+        return dp[len - 1];
     }
 }
