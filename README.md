@@ -35,6 +35,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0162-find-peak-element](https://github.com/sheranii/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sheranii/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sheranii/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sheranii/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sheranii/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sheranii/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -114,6 +115,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0070-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sheranii/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sheranii/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/sheranii/Leetcode/tree/master/0326-power-of-three) |
@@ -146,6 +148,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/sheranii/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sheranii/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
