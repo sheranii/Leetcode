@@ -53,6 +53,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/sheranii/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sheranii/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sheranii/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sheranii/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sheranii/Leetcode/tree/master/0739-daily-temperatures) |
@@ -97,6 +98,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sheranii/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0491-non-decreasing-subsequences](https://github.com/sheranii/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/sheranii/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sheranii/Leetcode/tree/master/0645-set-mismatch) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheranii/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/sheranii/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -339,6 +341,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sheranii/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Primality Test
