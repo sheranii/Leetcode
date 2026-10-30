@@ -8,6 +8,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sheranii/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheranii/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sheranii/Leetcode/tree/master/0039-combination-sum) |
@@ -90,6 +91,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sheranii/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sheranii/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sheranii/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sheranii/Leetcode/tree/master/0229-majority-element-ii) |
