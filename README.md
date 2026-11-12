@@ -196,6 +196,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0042-trapping-rain-water](https://github.com/sheranii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sheranii/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sheranii/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sheranii/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheranii/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sheranii/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/sheranii/Leetcode/tree/master/0224-basic-calculator) |
@@ -422,6 +423,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sheranii/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -448,4 +450,12 @@ Starting to build a collection of questions (new ones learning them or revising 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sheranii/Leetcode/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sheranii/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sheranii/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
