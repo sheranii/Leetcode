@@ -17,6 +17,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0045-jump-game-ii](https://github.com/sheranii/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sheranii/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sheranii/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/sheranii/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sheranii/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sheranii/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sheranii/Leetcode/tree/master/0055-jump-game) |
@@ -112,6 +113,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sheranii/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sheranii/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sheranii/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sheranii/Leetcode/tree/master/0067-add-binary) |
@@ -133,6 +135,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sheranii/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sheranii/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sheranii/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sheranii/Leetcode/tree/master/0074-search-a-2d-matrix) |
