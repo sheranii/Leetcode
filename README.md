@@ -62,6 +62,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0860-lemonade-change](https://github.com/sheranii/Leetcode/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
 | [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sheranii/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/sheranii/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/sheranii/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
