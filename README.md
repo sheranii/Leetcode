@@ -61,6 +61,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0746-min-cost-climbing-stairs](https://github.com/sheranii/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/sheranii/Leetcode/tree/master/0860-lemonade-change) |
 | [1094-car-pooling](https://github.com/sheranii/Leetcode/tree/master/1094-car-pooling) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sheranii/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/sheranii/Leetcode/tree/master/1306-jump-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sheranii/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sheranii/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -131,6 +132,7 @@ Starting to build a collection of questions (new ones learning them or revising 
 | [0509-fibonacci-number](https://github.com/sheranii/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sheranii/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/sheranii/Leetcode/tree/master/1175-prime-arrangements) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sheranii/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2614-prime-in-diagonal](https://github.com/sheranii/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sheranii/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Matrix
